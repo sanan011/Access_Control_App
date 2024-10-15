@@ -1,0 +1,15 @@
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\bin\Debug\net8.0\Access-Control-Program.exe
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\bin\Debug\net8.0\Access-Control-Program.deps.json
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\bin\Debug\net8.0\Access-Control-Program.runtimeconfig.json
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\bin\Debug\net8.0\Access-Control-Program.dll
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\bin\Debug\net8.0\Access-Control-Program.pdb
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\obj\Debug\net8.0\Access-Control-Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\obj\Debug\net8.0\Access-Control-Program.AssemblyInfoInputs.cache
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\obj\Debug\net8.0\Access-Control-Program.AssemblyInfo.cs
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\obj\Debug\net8.0\Access-Control-Program.csproj.CoreCompileInputs.cache
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\obj\Debug\net8.0\Access-Control-Program.sourcelink.json
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\obj\Debug\net8.0\Access-Control-Program.dll
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\obj\Debug\net8.0\refint\Access-Control-Program.dll
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\obj\Debug\net8.0\Access-Control-Program.pdb
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\obj\Debug\net8.0\Access-Control-Program.genruntimeconfig.cache
+C:\Users\AzEduNet\source\repos\Access-Control-Program\Access-Control-Program\obj\Debug\net8.0\ref\Access-Control-Program.dll
